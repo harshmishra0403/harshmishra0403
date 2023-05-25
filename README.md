@@ -9,7 +9,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="tkirtan" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="[https://stackoverflow.com/users/21961057/harsh-kumar-mishra" target="blank">
+<a href="https://stackoverflow.com/users/21961057/harsh-kumar-mishra" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" alt="harsh-mishra" width="22px" />
 </a>
   &nbsp;&nbsp;
